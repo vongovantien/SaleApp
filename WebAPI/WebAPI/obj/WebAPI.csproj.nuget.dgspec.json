@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\res\\saleApp\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "D:\\res\\SaleApp\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\res\\saleApp\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "D:\\res\\SaleApp\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\res\\saleApp\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\res\\SaleApp\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\res\\saleApp\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "D:\\res\\SaleApp\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Folio\\.nuget\\packages\\",
-        "outputPath": "D:\\res\\saleApp\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "D:\\res\\SaleApp\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Folio\\AppData\\Roaming\\NuGet\\NuGet.Config",

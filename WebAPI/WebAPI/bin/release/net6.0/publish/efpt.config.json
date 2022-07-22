@@ -1,0 +1,83 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "saledbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "WebAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[cart_item]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[comment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[product_tag]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[receipt]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[receipt_detail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[supplier]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tag]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "WIN-F397JDU9V6B.saledb",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
